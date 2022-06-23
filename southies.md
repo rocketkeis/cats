@@ -9,7 +9,7 @@
 
 | Spot                                     | # | Regular Cats | Not so regular |
 |------------------------------------------|---|--------------|----------------|
-| Ranch (in front of Xyting)               | 3 | Ranchica, Bigote, Sally, Tiger
+| Ranch (in front of Xyting)               | 4 | Ranchica, Bigote, Sally, Tiger
 | Turin                                    | 2 | Turin twins
 | Garden Office                            | 2 | Gray, L.Orange
 
@@ -21,7 +21,7 @@
 | 7-eleven                                 | 2 | Popeye, Vico
 | Blue Leaf (corner)                       | 2 | Mrs Blue, Mrs Leaf
 | Blue Leaf Ext (dulo)                     | 3 | Theon, Tormund, Fourth Musketeer | Gray, Emo cat (O&W)
-| Popeyes (cip corner / cigarette stand)   | 3 | Shy, Loud, Gus, Dallie (New)     | Spot
+| Popeyes (cip corner / cigarette stand)   | 4 | Shy, Loud, Gus, Dallie (New)     | Spot
 | Popeyes (vaccination tent)               | 3 | Tux, Ginger, Black               | Black Panther
 | Venice Love                              | 8 | Mama Tortie, 4 Orange, Baby Tux, Dark Gray, Juliet  | Romeo (black)
 | Second Floor                             | 1 | Vax (short for vaccination)
@@ -31,8 +31,6 @@
 ### Cat-a-log
 
 [https://bit.ly/southies-cat-alog](https://bit.ly/southies-cat-alog)
-
-Pics pending for Dallie, O&W
 
 
 ### Reminders
