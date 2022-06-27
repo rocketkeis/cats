@@ -30,7 +30,7 @@
 |------------------------------------------|---|--------------|----------------|
 | 7-eleven                                 | 2 | Popeye, Vico
 | Blue Leaf (corner)                       | 2 | Mrs Blue, Mrs Leaf
-| Blue Leaf Ext (dulo)                     | 3 | Theon, Tormund, Fourth Musketeer | Gray, Emo cat (O&W)
+| Blue Leaf Ext (dulo)                     | 3 | Theon, Tormund, Fourth Musketeer | Gray, Emo cat (O&W), Davos (new)
 | Popeyes (cip corner / cigarette stand)   | 4 | Shy, Loud, Gus, Dallie (New)     | Spot
 | Popeyes (vaccination tent)               | 3 | Tux, Ginger, Black               | Black Panther
 | Venice Love                              | 8 | Mama Tortie, 4 Orange, Baby Tux, Dark Gray, Juliet  | Gray, Romeo (black)
