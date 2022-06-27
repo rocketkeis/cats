@@ -14,6 +14,16 @@
 | Garden Office                            | 2 | Gray, L.Orange
 
 
+### Emperador-Enderun
+
+| Spot                                     | # | Regular Cats | Not so regular |
+|------------------------------------------|---|--------------|----------------|
+| Science Hub                              | 3 | Alpha, Scabby, Sam
+| Stadium Bamboo                           | 3 | Tiger cut tail, Mrs Uge, Mr Mack
+| Steel Parking                            | 2 | Kiskis, Mrs Empe
+| Enderun                                  |   |
+
+
 ### Piazza, Blue Leaf
 
 | Spot                                     | # | Regular Cats | Not so regular |
@@ -23,15 +33,16 @@
 | Blue Leaf Ext (dulo)                     | 3 | Theon, Tormund, Fourth Musketeer | Gray, Emo cat (O&W)
 | Popeyes (cip corner / cigarette stand)   | 4 | Shy, Loud, Gus, Dallie (New)     | Spot
 | Popeyes (vaccination tent)               | 3 | Tux, Ginger, Black               | Black Panther
-| Venice Love                              | 8 | Mama Tortie, 4 Orange, Baby Tux, Dark Gray, Juliet  | Romeo (black)
+| Venice Love                              | 8 | Mama Tortie, 4 Orange, Baby Tux, Dark Gray, Juliet  | Gray, Romeo (black)
 | Second Floor                             | 1 | Vax (short for vaccination)
 | Third Floor                              | 2 | Chapel, O&W                      | Cara (gray), Black Mama, White
 
 
 ### Cat-a-log
 
-[https://bit.ly/southies-cat-alog](https://bit.ly/southies-cat-alog)
+[https://bit.ly/southies-cat-alog](https://bit.ly/southies-cat-alog)\*
 
+\**Emperador-Enderun cats not included*
 
 ### Reminders
 
