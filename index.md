@@ -1,57 +1,28 @@
-# Southies Cats Feeding Notes
-
-### Map
-
-[https://bit.ly/SouthiesCatMap](https://bit.ly/SouthiesCatMap)
+# My notes
 
 
-### Otw to Piazza
-
-| Spot                                     | # | Regular Cats | Not so regular |
-|------------------------------------------|---|--------------|----------------|
-| Ranch (in front of Xyting)               | 4 | Ranchica, Bigote, Sally, Tiger
-| Turin                                    | 2 | Turin twins
-| Garden Office                            | 2 | Gray, L.Orange
+### [Adopt, Foster, Donate, Support](https://bit.ly/catsofmckinleyms)
 
 
-### Emperador-Enderun
+### Social Links and Pages
 
-| Spot                                     | # | Regular Cats | Not so regular |
-|------------------------------------------|---|--------------|----------------|
-| Science Hub                              | 3 | Alpha, Scabby, Sam
-| Stadium Bamboo                           | 3 | Tiger cut tail, Mrs Uge, Mr Mack
-| Steel Parking                            | 2 | Kiskis, Mrs Empe
-| Enderun                                  |   |
+fb: https://www.facebook.com/catsofmckinley
 
+ig: https://instagram.com/catsofmckinley
 
-### Piazza, Blue Leaf
-
-| Spot                                     | # | Regular Cats | Not so regular |
-|------------------------------------------|---|--------------|----------------|
-| 7-eleven                                 | 2 | Popeye, Vico
-| Blue Leaf (corner)                       | 2 | Mrs Blue, Mrs Leaf
-| Blue Leaf Ext (dulo)                     | 3 | Theon, Tormund, Fourth Musketeer | Gray, Emo cat (O&W), Davos (new)
-| Popeyes (cip corner / cigarette stand)   | 4 | Shy, Loud, Gus, Dallie (New)     | Spot
-| Popeyes (vaccination tent)               | 3 | Tux, Ginger, Black               | Black Panther
-| Venice Love                              | 8 | Mama Tortie, 4 Orange, Baby Tux, Dark Gray, Juliet  | Gray, Romeo (black)
-| Second Floor                             | 1 | Vax (short for vaccination)
-| Third Floor                              | 2 | Chapel, O&W                      | Cara (gray), Black Mama, White
+tiktok: https://www.tiktok.com/@mckinleyhillcats
 
 
-### Cat-a-log
+### Feeding Routes
 
-[https://bit.ly/southies-cat-alog](https://bit.ly/southies-cat-alog)\*
+1. McKinley West
+1. McKinley Hill - Front/Upper McKinley
+1. McKinley Hill - [Science Hub, Piazza, Blue Leaf](southies.md)
+1. McKinley Hill - Tuscany
 
-\**Emperador-Enderun cats not included*
 
-### Reminders
+### Cat Pics
 
-CLAYGO so that the cats won't get into trouble with the admins of the place
+[Southies Cat-alog](https://bit.ly/southies-cat-alog) - Piazza, Blue Leaf cats
 
-* Try not to overfeed. Left-overs might invite ants/rats.
-* Small portion only if feeding without a plate.
-
-Cattendance after feeding
-
-* Message is sent to the Viber group to let folks know you're done with the feeding
-* Also lets us know who's been MIA, or who was previously MIA who then showed up
+[Community Cats Album (FB)](https://www.facebook.com/media/set/?set=a.513282400134086)
