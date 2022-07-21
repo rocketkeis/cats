@@ -10,8 +10,8 @@
 | Spot                                     | # | Regular Cats | Not so regular |
 |------------------------------------------|---|--------------|----------------|
 | Ranch (in front of Xyting)               | 4 | Ranchica, Bigote, Sally, Tiger
-| Turin                                    | 2 | Turin twins
-| Garden Office                            | 2 | Gray, L.Orange
+| Turin                                    | 2 | Turin twins (Ven, Ice)
+| Terminal (formerly Garden Office         | 2 | GG (Garden Gray), L.Orange
 
 
 ### Emperador-Enderun
@@ -28,14 +28,15 @@
 
 | Spot                                     | # | Regular Cats | Not so regular |
 |------------------------------------------|---|--------------|----------------|
-| 7-eleven                                 | 2 | Popeye, Vico
+| 7-eleven                                 | 3 | Popeye, Vico, Gus
 | Blue Leaf (corner)                       | 2 | Mrs Blue, Mrs Leaf
-| Blue Leaf Ext (dulo)                     | 3 | Theon, Tormund, Fourth Musketeer | Gray, Emo cat (O&W), Davos (new)
-| Popeyes (cip corner / cigarette stand)   | 4 | Shy, Loud, Gus, Dallie (New)     | Spot
+| Blue Leaf Ext (dulo)                     | 4 | Theon, Tormund, Fourth Musketeer, Davos | Gray, Emo cat (O&W), Davos (new)
+| Popeyes (cip corner / cigarette stand)   | 3 | Shy, Loud, Dallie (New)          |
 | Popeyes (vaccination tent)               | 3 | Tux, Ginger, Black               | Black Panther
 | Venice Love                              | 8 | Mama Tortie, 4 Orange, Baby Tux, Dark Gray, Juliet  | Gray, Romeo (black)
 | Second Floor                             | 1 | Vax (short for vaccination)
-| Third Floor                              | 2 | Chapel, O&W                      | Cara (gray), Black Mama, White
+| Third Floor                              | 2 | Chapel, Owen Wilson              | Cara (gray), Mama Black, White
+| Woodridge 7-eleven                       | 1 | Spot
 
 
 ### Cat-a-log
