@@ -11,7 +11,7 @@
 |------------------------------------------|---|--------------|----------------|
 | Ranch (in front of Xyting)               | 4 | Ranchica, Bigote, Sally, Tiger
 | Turin                                    | 2 | Turin twins (Ven, Ice)
-| Terminal (formerly Garden Office         | 2 | GG (Garden Gray), L.Orange
+| Terminal (formerly Garden Office)        | 2 | GG (Garden Gray), L.Orange
 
 
 ### Emperador-Enderun
