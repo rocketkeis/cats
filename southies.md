@@ -7,11 +7,11 @@
 
 ### Otw to Piazza
 
-| Spot                                     | # | Regular Cats                  | Not so regular |
-|------------------------------------------|---|-------------------------------|----------------|
-| Ranch (in front of Xyting)               | 4 | Ranchica, Bigote, Sally, Tiger
-| Turin                                    | 2 | Turin twins (Ven, Ice)
-| Terminal (formerly Garden Office)        | 2 | GG (Garden Gray), L.Orange
+| Spot                                     | # | Regular Cats                   | Not so regular |
+|------------------------------------------|---|--------------------------------|----------------|
+| Ranch (in front of Xyting)               | 5 | Ranchica, Bigote, Sally, Tiger | BYC (Black Young Cat)
+| Turin                                    | 3 | Turin twins (Ven, Ice)         | Turin O&W
+| Terminal (formerly Garden Office)        | 3 | GG (Garden Gray), L.Orange     | Minchin Gray
 
 
 ### Emperador-Enderun
@@ -28,15 +28,15 @@
 
 | Spot                                     | # | Regular Cats                  | Not so regular |
 |------------------------------------------|---|-------------------------------|----------------|
-| 7-eleven                                 | 3 | Popeye, Vico, Gus
+| 7-eleven/CIP                             | 4 | Popeye, Vico, Gus             | Dallie
 | Blue Leaf (corner)                       | 2 | Mrs Blue, Mrs Leaf
-| Blue Leaf Ext (dulo)                     | 4 | Theon, Tormund, Fourth        | Gray, Emo cat (O&W), Davos (new)
-| Popeyes (cip corner / cigarette stand)   | 3 | Shy, Loud, Dallie (New)       |
-| Popeyes (vaccination tent)               | 3 | Tux, Ginger, Black            | Black Panther
-| Venice Love                              | 8 | Mama Tortie, 4 Orange, Baby Tux, Dark Gray, Juliet  | Gray, Romeo (black)
+| Blue Leaf Ext (dulo)                     | 3 | Tormund, Fourth               | Emo cat (O&W)
+| Marugame                                 | 4 | Tux, Ginger, Black            | Black Panther
+| Venice Love                              | 9 | Mama Tortie, 4 Orange, Baby Tux, Dark Gray, Juliet  | Gray
 | Second Floor                             | 1 | Vax (short for vaccination)
-| Third Floor                              | 3 | Mama Black, Owen Wilson, Cara | White
-| Woodridge 7-eleven                       | 1 | Spot
+| Third Floor                              | 6 | Mama Black, Cara | Owen Wilson, Snow White, Mama Black's 2 kittens
+| Woodridge 7-eleven                       | 2 | Spot                          | Davos
+| Inside the mall                          | 2 |                               | Yusi, Jollibee cat
 
 
 ### Cat-a-log
@@ -44,6 +44,7 @@
 [https://bit.ly/southies-cat-alog](https://bit.ly/southies-cat-alog)\*
 
 \**Emperador-Enderun cats not included*
+
 
 ### Reminders
 
